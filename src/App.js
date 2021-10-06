@@ -6,14 +6,8 @@ export default function App() {
       <h1>Weather App</h1>
       <footer>
         This project was coded by{" "}
-        <a href="https://jackymadenfrost.com/" target="_blank">
-          Jacky Madenfrost
-        </a>{" "}
-        and is{" "}
-        <a
-          href="https://github.com/jackymadenfrost/react-weather-app"
-          target="_blank"
-        >
+        <a href="https://jackymadenfrost.com/">Jacky Madenfrost</a> and is{" "}
+        <a href="https://github.com/jackymadenfrost/react-weather-app">
           open-sourced on GitHub
         </a>
       </footer>
