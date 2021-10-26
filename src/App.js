@@ -8,9 +8,28 @@ export default function App() {
         <Weather defaultCity="New York" />
         <footer>
           This project was coded by{" "}
-          <a href="https://jackymadenfrost.com/">Jacky Madenfrost</a> and is{" "}
-          <a href="https://github.com/jackymadenfrost/react-weather-app">
-            open-sourced on GitHub
+          <a
+            href="https://jackymadenfrost.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Jacky Madenfrost
+          </a>{" "}
+          , open-sourced on{" "}
+          <a
+            href="https://github.com/jackymadenfrost/react-weather-app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>{" "}
+          and hosted on{" "}
+          <a
+            href="https://kind-hoover-e8d028.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Netlify
           </a>
         </footer>
       </div>
